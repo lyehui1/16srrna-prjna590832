@@ -38,10 +38,10 @@ conda activate runqc
 ```
 conda install multiqc
 ```
-MultiQC report before FLASH run:
+MultiQC report summary before FLASH run:
 ![](https://user-images.githubusercontent.com/43180979/235857699-5e183356-1243-4546-8bb6-4c9bbe44e9c8.png)
 
-MultiQC report after FLASH run:
+MultiQC report summary after FLASH run:
 ![image](https://user-images.githubusercontent.com/43180979/235857864-5e648996-df2a-49a4-95db-5e93f3dd33be.png)
 
 
